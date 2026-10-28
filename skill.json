@@ -1,0 +1,15 @@
+{
+  "name": "genpark-reasoning-majority-voting-consensus-engine-skill",
+  "version": "1.0.0",
+  "description": "GenPark Reasoning Majority Voting Consensus Engine - Implements Self-Consistency Best-of-N temperature resampler with semantic deduplication and confidence-weighted voting.",
+  "category": "Service",
+  "mcp_entry": "mcp_server.py",
+  "python_version": ">=3.9",
+  "tags": [
+    "deepseek-r1",
+    "self-consistency",
+    "majority-voting",
+    "consensus-clustering",
+    "mcp"
+  ]
+}
